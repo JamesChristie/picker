@@ -1,0 +1,42 @@
+# compiled output
+/dist
+/spec-dist
+/tmp
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+.log
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+/typings
+deploy-build
+npm-debug.log.*
+
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+dist-deploy
+yarn-error.log
